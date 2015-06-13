@@ -1,6 +1,8 @@
 package com.digitek.loops;
 
 public class ForLoopDemo {
+
+// adedd by manish patel
 	
 	public static void main(String[] args) {
 
