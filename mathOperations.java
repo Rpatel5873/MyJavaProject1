@@ -9,7 +9,8 @@ public class mathOperations {
 	   divisionOfTwoNumbers();
 	   
    }
-   
+
+// Added comments   
 	private static void substractionOfTwoNumbers() {//scope of method
 		//int : datatype, number: variable, = : used to assign value, 
 		//; for ending statement
